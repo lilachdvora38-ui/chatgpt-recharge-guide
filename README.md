@@ -1,6 +1,9 @@
 # 2026年 ChatGPT Plus / Pro 国内充值指南：怎么开通、价格与套餐选择
 
 ChatGPT Plus 国内怎么充值？没有海外银行卡还能不能开通？Plus 和 Pro 应该怎么选？
+## ChatGPT 充值教程目录
+
+- [ChatGPT Plus 国内怎么充值？2026年开通方法与避坑指南](CHATGPT_PLUS_RECHARGE.md)
 
 国内用户开通 ChatGPT 会员前，主要需要确认三件事：选择什么套餐、使用哪种支付方式，以及充值过程是否安全可靠。
 
